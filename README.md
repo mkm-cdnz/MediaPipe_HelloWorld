@@ -15,3 +15,4 @@ I have downloaded and installed MediaPipe via
 - While my long term goal is to explore machine learning, and do something useful, I wanted to start with getting used to MediaPipe. 
 - This could possibly be used for choreographing a music video, or I could use this for ‘anonymously’ embedding talking head footage into a different video.
 - Can utilize machine learning, to recognize gestures/poses/etc.
+![image](https://github.com/user-attachments/assets/a432250f-c659-48c9-ab78-8b5c70ef1ad7)
